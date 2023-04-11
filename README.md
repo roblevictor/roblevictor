@@ -3,7 +3,7 @@
 Tenho 22 anos, estou cursando análise e desenvolvimento de sistemas na Toledo Prudente e estou estudando para ser desenvolvedor Front-end.
 
 - 🔭 Procurando uma oportunidade de estágio
-- 🌱 Estudando React e c# 
+- 🌱 Estudando React, React Native e c# 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
