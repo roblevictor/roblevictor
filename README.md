@@ -8,7 +8,7 @@ Tenho 22 anos, estou cursando análise e desenvolvimento de sistemas na Toledo P
 <div style="display: inline_block"><br>
   <img align="center" alt="Victor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Victor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="center" alt="Victor-Node" height="30" width="40" src="![image](https://github.com/roblevictor/roblevictor/assets/99829800/edbb17da-c60c-49ba-a3e1-cd363e74eac7)
+   <img align="center" alt="Victor-Node" height="30" width="40" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 ">
   <img align="center" alt="Victor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Victor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
