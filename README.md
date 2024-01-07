@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Victor👋
 
-Tenho 22 anos, estou cursando análise e desenvolvimento de sistemas na Toledo Prudente e estou estudando para ser desenvolvedor Front-end.
+Tenho 22 anos, graduando do curso de Análise e Desenvolvimento de Sistemas na Toledo Prudente e estou estudando para ser desenvolvedor Front-end e mobile.
 
 
 - 🌱 Estudando React, React Native e c# 
